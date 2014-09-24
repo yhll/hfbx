@@ -33,13 +33,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.primeton.testDemo</string>
+				<string>com.primeton.pmkehu.hfbx</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>测试推送</string>
+				<string>报销</string>
 			</dict>
 		</dict>
 	</array>
