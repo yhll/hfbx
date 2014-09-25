@@ -33,13 +33,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.primeton.mobile.oprimetoner</string>
+				<string>com.primeton.mobile.emp299</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>普元人</string>
+				<string>测试</string>
 			</dict>
 		</dict>
 	</array>
